@@ -7,7 +7,7 @@
     <title>Templates</title>
 </head>
 <body>
-    <h2> Instituto de Ciência e Tecnologia de Franca</h2>
+    <h2>Instituto de Ciência e Tecnologia de Franca</h2>
     
 </body>
 </html>
